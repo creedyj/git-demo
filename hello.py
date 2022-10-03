@@ -10,7 +10,7 @@ def hello():
 
 def hellomars():
 	print("Hello, Mars")
-
+	print(" Mars")
 
 def hellojupiter():
 	print("Hello, Jupiter")
